@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kotlin_Anko</string>
+    <string name="create_account">create_account</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="full_name">full_name</string>
+    <string name="title_login_failed">Login Failed</string>
+    <string name="message_login_failed">Username or password invalid!</string>
+</resources>
